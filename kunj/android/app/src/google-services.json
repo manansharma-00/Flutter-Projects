@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "506143384084",
+    "firebase_url": "https://translatevoiceindia-default-rtdb.firebaseio.com",
+    "project_id": "translatevoiceindia",
+    "storage_bucket": "translatevoiceindia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506143384084:android:a75ea5ad043fd2ad76fd01",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbtcTqD2CnMXEULmumvxU3JBVfWCBAUBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

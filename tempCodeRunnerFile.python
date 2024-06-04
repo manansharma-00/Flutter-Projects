@@ -1,0 +1,10 @@
+
+import pyautogui as pg
+import time
+time.sleep(8)
+words=["bsdk","madarchod","behen k lode","machar ki jhant","tatto k saudagar","ma ki chut teri"]
+
+for i in range(50):
+    for j in range(len(words)):
+        pg.write(words[j])
+        pg.press("enter")
